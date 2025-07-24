@@ -2,6 +2,10 @@
 
 A pixel-perfect clone of the Luna Beach Club hero section featuring an interactive circular navigation menu with smooth rotation animations.
 
+## Preview
+
+[Show the preivew](https://2470661.playcode.io/)
+
 ## Features
 
 - **Hero Slider**: Owl Carousel integration with video and image slides
